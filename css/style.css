@@ -1,0 +1,131 @@
+.slider_pic img {
+    width: 100%;
+}
+
+.single img {
+    width: 100%;
+}
+
+.footer {
+    width: 100%;
+    padding-right: 44px;
+    padding-left: 44px;
+}
+
+.single {
+    width: 100%;
+    padding-top: 100px;
+}
+
+#content {
+    padding-right: 44px;
+    padding-left: 44px;
+}
+
+#content_bottom {
+    padding-right: 44px;
+    padding-left: 44px;
+}
+
+.logo {
+    padding-top: 72px;
+}
+
+.navbar {
+    position: relative;
+    min-height: 50px;
+    padding-top: 33px;
+}
+
+.navbar-brand {
+    font-family: 'Playfair Display', serif;
+    float: left;
+    height: 50px;
+    padding: 37px 40px;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+a {
+    color: #acacac;
+}
+
+.slider_pic img {
+    width: 100%;
+    padding-top: 60px;
+}
+
+.slider_content {
+    padding-top: 100px;
+}
+
+.cmnt {
+    color: #b4ad9e;
+    font-family: 'Ubuntu', sans-serif;
+    padding-top: 27px;
+}
+
+.cmnt2 {
+    color: #b4ad9e;
+    font-family: 'Ubuntu', sans-serif;
+    padding-top: 40px;
+}
+
+.content_heading {
+    color: #626262;
+    font-family: 'Playfair Display', serif;
+    font-size: 27px;
+}
+
+.content {
+    color: #626262;
+    font-family: 'Playfair Display', serif;
+    padding-top: 31px;
+}
+
+#field_style {
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid black;
+    padding: 0px 85px;
+    padding-top: 17px;
+    position: relative;
+}
+
+.arrow {
+    border: none;
+    background: transparent;
+    position: absolute;
+    bottom: 238px;
+    right: 411px;
+
+}
+
+.sign_up_content {
+    background: #f0f0f0;
+    text-align: center;
+    padding: 115px 10px 130px 10px;
+
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.load_more_btn {
+    padding: 14px 30px;
+    background: transparent;
+    border: 1px solid #626262;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    font-family: 'Playfair Display', serif;
+}
+
+.privacy {}
+
+#footer_content {
+      background-color: #f0f0f0;
+    
+    padding-bottom: 30px;
+    padding-top: 45px;
+    font-family: 'Playfair Display', serif;
+    
+}
